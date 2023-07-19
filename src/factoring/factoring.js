@@ -9,3 +9,7 @@ export class Factoring {
     console.log("this function create a new dignatary");
   }
 }
+
+module.exports = {
+  Factoring,
+};

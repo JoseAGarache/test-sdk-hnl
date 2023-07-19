@@ -1,2 +1,7 @@
-export { CMF } from "./cmf.js";
-export { Factoring } from "./factoring.js";
+const cmf = require("./cmf/cmf");
+const factoring = require("./factoring/factoring");
+
+module.exports = {
+  cmf,
+  factoring,
+};
