@@ -1,6 +1,6 @@
 {
   "name": "test-sdk-hnl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test sdk to HNL",
   "main": "src/index.js",
   "module": "src/index.mjs",
