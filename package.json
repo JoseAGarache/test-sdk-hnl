@@ -1,0 +1,21 @@
+{
+  "name": "test-sdk-hnl",
+  "version": "1.0.0",
+  "description": "test sdk to HNL",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAGarache/test-sdk-hnl.git"
+  },
+  "keywords": [],
+  "author": "Jose Angel Garache Saenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAGarache/test-sdk-hnl/issues"
+  },
+  "homepage": "https://github.com/JoseAGarache/test-sdk-hnl#readme"
+}
